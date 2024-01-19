@@ -1,4 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/q9wGcN9U)
+# Students:
+Bárbara Nóbrega Galiza - 105937 
+Diana Miranda - 107457
+
 # CD 2023 Project
 
 Here we have a sample code that loads one mp3 file and splits it 
