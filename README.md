@@ -1,6 +1,6 @@
 # Students:
-Bárbara Nóbrega Galiza - 105937 
-Diana Miranda - 107457
+- Bárbara Nóbrega Galiza - 105937 
+- Diana Miranda - 107457
 
 # CD 2023 Project
 
